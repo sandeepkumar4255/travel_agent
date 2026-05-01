@@ -1,0 +1,35 @@
+[weather][rain] Heavy rain reduces outdoor activities
+[weather][rain] Rain can delay travel plans
+
+[weather][heat] Extreme heat causes discomfort
+[weather][heat] Heatwaves increase health risks
+
+[weather][mild] Mild weather is comfortable for travel
+
+[weather][clear] Clear skies are ideal for sightseeing
+
+[weather][fog] Fog reduces visibility
+[weather][fog] Travel may be unsafe
+
+[weather][snow] Snow may block roads
+[weather][snow] Travel may be restricted
+
+[weather][cold] Cold weather requires warm clothes
+
+[weather][dry] Dry weather is good for travel
+
+[weather][wind] Strong winds affect outdoor plans
+
+[weather][humidity] High humidity causes discomfort
+
+[experience] Good weather improves travel experience
+[experience] Bad weather reduces enjoyment
+
+[cost][peak] Peak season increases cost
+[cost][offseason] Off-season reduces cost
+[cost][shoulder] Shoulder season balances cost and comfort
+
+[safety] Check weather alerts before travel
+[safety] Avoid travel in extreme conditions
+
+[behavior] Travelers prefer comfortable weather
