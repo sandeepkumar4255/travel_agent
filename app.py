@@ -1,8 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "https://travel-agent-kr8f.onrender.com/"
-
+API_URL = "https://travel-agent-kr8f.onrender.com"
 # ======================
 # 🎨 PAGE SETTINGS
 # ======================
